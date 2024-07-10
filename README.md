@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/kyv0tl28ltybf5uf?svg=true)](https://ci.appveyor.com/project/sku11busters/matchers)
